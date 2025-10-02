@@ -1,3 +1,3 @@
-const helloWorld =()=>"Hello World!"
+function helloWorld() {}
 
 module.exports = helloWorld;
